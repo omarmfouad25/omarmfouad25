@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d8d0fd&height=120&section=header&text=&animation=fadeIn" width="100%" />
+
+<br/>
+
 # Omar Fouad
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2600&pause=900&color=0A0A0A&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Software+Engineer;Full+Stack+Web+Development;TypeScript+%7C+Node.js+%7C+React+%7C+PostgreSQL;Production+web+and+AI+systems)](https://omar-fouad.com)
@@ -41,12 +45,14 @@ Quality       ──→  Vitest, typechecked CI, security tests for tenant isola
 ![JavaScript](https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=d8d0fd)
 ![Python](https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=d8d0fd)
 ![SQL](https://img.shields.io/badge/SQL-0A0A0A?style=flat-square&logo=postgresql&logoColor=d8d0fd)
+![PHP](https://img.shields.io/badge/PHP-0A0A0A?style=flat-square&logo=php&logoColor=d8d0fd)
 
 #### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-0A0A0A?style=flat-square&logo=nodedotjs&logoColor=d8d0fd)
 ![Fastify](https://img.shields.io/badge/Fastify-0A0A0A?style=flat-square&logo=fastify&logoColor=d8d0fd)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=d8d0fd)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=flat-square&logo=socketdotio&logoColor=d8d0fd)
+![Laravel](https://img.shields.io/badge/Laravel-0A0A0A?style=flat-square&logo=laravel&logoColor=d8d0fd)
 ![REST](https://img.shields.io/badge/REST_APIs-0A0A0A?style=flat-square&logo=openapiinitiative&logoColor=d8d0fd)
 
 #### Frontend
@@ -73,8 +79,6 @@ Quality       ──→  Vitest, typechecked CI, security tests for tenant isola
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0A0A0A?style=flat-square&logo=databricks&logoColor=d8d0fd)
 ![Vector Search](https://img.shields.io/badge/Vector_Search-0A0A0A?style=flat-square&logo=qdrant&logoColor=d8d0fd)
 ![Embeddings](https://img.shields.io/badge/Embeddings-0A0A0A?style=flat-square&logo=huggingface&logoColor=d8d0fd)
-![Streaming](https://img.shields.io/badge/Token_Streaming-0A0A0A?style=flat-square&logo=lightning&logoColor=d8d0fd)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-0A0A0A?style=flat-square&logo=zapier&logoColor=d8d0fd)
 
 #### Testing & Quality
 ![Vitest](https://img.shields.io/badge/Vitest-0A0A0A?style=flat-square&logo=vitest&logoColor=d8d0fd)
