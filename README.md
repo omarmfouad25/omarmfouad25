@@ -1,9 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d8d0fd&height=120&section=header&text=&animation=fadeIn" width="100%" />
-
-<br/>
-
 # Omar Fouad
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2600&pause=900&color=0A0A0A&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Software+Engineer;Full+Stack+Web+Development;TypeScript+%7C+Node.js+%7C+React+%7C+PostgreSQL;Production+web+and+AI+systems)](https://omar-fouad.com)
