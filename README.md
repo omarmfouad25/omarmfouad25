@@ -1,18 +1,20 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=d8d0fd&height=120&section=header&text=&animation=fadeIn" width="100%" />
 
+<br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=0A0A0A&center=true&vCenter=true&multiline=true&repeat=false&width=620&height=80&lines=Omar+Fouad+—+Software+Engineer)](https://git.io/typing-svg)
+# Omar Fouad
 
-**Software Engineer · Full Stack Web Development**
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2600&pause=900&color=0A0A0A&center=true&vCenter=true&repeat=true&width=640&height=45&lines=Software+Engineer;Full+Stack+Web+Development;TypeScript+%7C+Node.js+%7C+React+%7C+PostgreSQL;Production+web+and+AI+systems)](https://omar-fouad.com)
 
-*Dubai, UAE · TypeScript, Node.js, React, PostgreSQL*
+<sub>**Dubai, UAE**</sub>
 
 <br/>
 
 [![Website](https://img.shields.io/badge/omar--fouad.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=d8d0fd)](https://omar-fouad.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=d8d0fd)](https://linkedin.com/in/omarfouad25)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=d8d0fd)](mailto:omarmfouad25@gmail.com)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=d8d0fd)](mailto:omar@omar-fouad.com)
 
 </div>
 
@@ -28,7 +30,8 @@ I work across the full stack and take products from schema design through to dep
 Backend       ──→  Node.js, Fastify, FastAPI, REST, WebSockets, streaming responses
 Frontend      ──→  React, Next.js, TypeScript, Tailwind — prototype to production
 Data          ──→  PostgreSQL schema design, row-level security, pipelines, dashboards
-AI Systems    ──→  LLM integration, RAG pipelines, streaming completions, tool calling
+AI Systems    ──→  RAG ingestion, streaming completions, tool calling, multi-provider
+Quality       ──→  Vitest, typechecked CI, security tests for tenant isolation
 ```
 
 ---
@@ -48,7 +51,7 @@ AI Systems    ──→  LLM integration, RAG pipelines, streaming completions, 
 ![Fastify](https://img.shields.io/badge/Fastify-0A0A0A?style=flat-square&logo=fastify&logoColor=d8d0fd)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=d8d0fd)
 ![WebSockets](https://img.shields.io/badge/WebSockets-0A0A0A?style=flat-square&logo=socketdotio&logoColor=d8d0fd)
-![REST](https://img.shields.io/badge/REST_APIs-0A0A0A?style=flat-square&logo=fastapi&logoColor=d8d0fd)
+![REST](https://img.shields.io/badge/REST_APIs-0A0A0A?style=flat-square&logo=openapiinitiative&logoColor=d8d0fd)
 
 #### Frontend
 ![React](https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=d8d0fd)
@@ -67,13 +70,26 @@ AI Systems    ──→  LLM integration, RAG pipelines, streaming completions, 
 ![Power BI](https://img.shields.io/badge/Power_BI-0A0A0A?style=flat-square&logo=powerbi&logoColor=d8d0fd)
 
 #### AI & LLM
-![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=flat-square&logo=openai&logoColor=d8d0fd)
 ![Anthropic](https://img.shields.io/badge/Anthropic-0A0A0A?style=flat-square&logo=anthropic&logoColor=d8d0fd)
+![OpenAI](https://img.shields.io/badge/OpenAI-0A0A0A?style=flat-square&logo=openai&logoColor=d8d0fd)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-0A0A0A?style=flat-square&logo=googlegemini&logoColor=d8d0fd)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-0A0A0A?style=flat-square&logo=vercel&logoColor=d8d0fd)
 ![RAG](https://img.shields.io/badge/RAG_Pipelines-0A0A0A?style=flat-square&logo=databricks&logoColor=d8d0fd)
+![Vector Search](https://img.shields.io/badge/Vector_Search-0A0A0A?style=flat-square&logo=qdrant&logoColor=d8d0fd)
+![Embeddings](https://img.shields.io/badge/Embeddings-0A0A0A?style=flat-square&logo=huggingface&logoColor=d8d0fd)
+![Streaming](https://img.shields.io/badge/Token_Streaming-0A0A0A?style=flat-square&logo=lightning&logoColor=d8d0fd)
+![Tool Calling](https://img.shields.io/badge/Tool_Calling-0A0A0A?style=flat-square&logo=zapier&logoColor=d8d0fd)
+
+#### Testing & Quality
+![Vitest](https://img.shields.io/badge/Vitest-0A0A0A?style=flat-square&logo=vitest&logoColor=d8d0fd)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0A0A0A?style=flat-square&logo=githubactions&logoColor=d8d0fd)
+![TypeScript](https://img.shields.io/badge/Strict_Typecheck-0A0A0A?style=flat-square&logo=typescript&logoColor=d8d0fd)
+![ESLint](https://img.shields.io/badge/ESLint-0A0A0A?style=flat-square&logo=eslint&logoColor=d8d0fd)
 
 #### Infrastructure
 ![Git](https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=d8d0fd)
 ![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=flat-square&logo=vercel&logoColor=d8d0fd)
+![Railway](https://img.shields.io/badge/Railway-0A0A0A?style=flat-square&logo=railway&logoColor=d8d0fd)
 ![AWS](https://img.shields.io/badge/AWS-0A0A0A?style=flat-square&logo=amazonwebservices&logoColor=d8d0fd)
 ![Linux](https://img.shields.io/badge/Linux_VPS-0A0A0A?style=flat-square&logo=linux&logoColor=d8d0fd)
 ![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=flat-square&logo=n8n&logoColor=d8d0fd)
@@ -84,14 +100,17 @@ AI Systems    ──→  LLM integration, RAG pipelines, streaming completions, 
 
 ## What I build
 
-**Multi-tenant SaaS platform** — Next.js, Supabase, Drizzle
-Tenant-level data isolation enforced with row-level security across every boundary, and a 14-view PostgreSQL reporting layer using `security_invoker` for tenant-safe access.
+**Multi-tenant SaaS platform** — Next.js, Supabase, Drizzle, Vitest
+Tenant-level data isolation enforced with row-level security across every boundary, and a 14-view PostgreSQL reporting layer using `security_invoker` for tenant-safe access. Isolation is not assumed — it is covered by a dedicated test suite that actively attempts cross-tenant reads and asserts they fail.
+
+**RAG ingestion pipeline** — TypeScript, embeddings, vector retrieval
+Document extraction, chunking, embedding, and retrieval as discrete tested stages, so a change to the chunking strategy cannot silently break retrieval quality.
 
 **Real-time messaging server** — Node.js, TypeScript, Fastify, WebSockets
 Backend owning a long-lived, stateful session and exposing both REST and WebSocket interfaces. Pushes live events to connected clients over `ws`, handling session lifecycle, authentication, and reconnection.
 
-**LLM streaming applications** — Next.js, Anthropic SDK, Node
-Streams model output token-by-token from a Node route handler to the browser, with client-side cancellation via `AbortController`.
+**LLM streaming applications** — Next.js, Anthropic SDK, Vercel AI SDK
+Streams model output token-by-token from a Node route handler to the browser, with client-side cancellation via `AbortController`. Provider-agnostic across Anthropic, OpenAI, and Google.
 
 **Report generation system** — TypeScript, PostgreSQL
 CLI pipeline and web portal over a 23-table schema, with a multi-provider AI abstraction that routes generation across model vendors without call-site changes.
@@ -99,34 +118,6 @@ CLI pipeline and web portal over a 23-table schema, with a multi-provider AI abs
 **Data pipelines & dashboards** — Python, Pandas
 Pipelines analysing sales and performance data, generating written executive commentary from the computed results.
 
-*Most client and product work lives in private repositories.*
+<br/>
 
----
-
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=omarmfouad25&show_icons=true&theme=default&hide_border=true&bg_color=F5F4F0&title_color=0A0A0A&icon_color=d8d0fd&text_color=0A0A0A&ring_color=d8d0fd" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarmfouad25&layout=compact&theme=default&hide_border=true&bg_color=F5F4F0&title_color=0A0A0A&text_color=0A0A0A&langs_count=6" />
-
-</div>
-
----
-
-## Featured
-
-<div align="center">
-
-[![omar-fouad.com](https://github-readme-stats.vercel.app/api/pin/?username=omarmfouad25&repo=omar-fouad.com&theme=default&hide_border=true&bg_color=F5F4F0&title_color=0A0A0A&icon_color=d8d0fd&text_color=0A0A0A)](https://github.com/omarmfouad25/omar-fouad.com)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=d8d0fd&height=80&section=footer" width="100%" />
-
-</div>
+> Most client and product work lives in private repositories. Happy to walk through architecture and trade-offs in conversation.
