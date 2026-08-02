@@ -13,7 +13,7 @@
 <br/>
 
 [![Website](https://img.shields.io/badge/omar--fouad.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=d8d0fd)](https://omar-fouad.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=d8d0fd)](https://linkedin.com/in/omarfouad25)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=d8d0fd)](https://linkedin.com/in/omarmfouad25)
 [![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=d8d0fd)](mailto:omar@omar-fouad.com)
 
 </div>
