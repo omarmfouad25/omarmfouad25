@@ -22,13 +22,13 @@
 
 ## About
 
-I studied **Computer Science and Statistics**, and I have spent 6+ years building production web and AI systems — TypeScript and Node.js services, React and Next.js frontends, PostgreSQL schema design, and LLM integration in software people use every day.
+I studied **Computer Science and Statistics**, and I have spent 6+ years building production web and AI systems: TypeScript and Node.js services, React and Next.js frontends, PostgreSQL schema design, and LLM integration in software people use every day.
 
 I work across the full stack and take products from schema design through to deployed frontend, owning architecture and delivery independently. The statistics half of the degree still earns its keep: I build the data pipelines, reporting layers, and dashboards alongside the applications they serve.
 
 ```
 Backend       ──→  Node.js, Fastify, FastAPI, REST, WebSockets, streaming responses
-Frontend      ──→  React, Next.js, TypeScript, Tailwind — prototype to production
+Frontend      ──→  React, Next.js, TypeScript, Tailwind, prototype to production
 Data          ──→  PostgreSQL schema design, row-level security, pipelines, dashboards
 AI Systems    ──→  RAG ingestion, streaming completions, tool calling, multi-provider
 Quality       ──→  Vitest, typechecked CI, security tests for tenant isolation
@@ -100,22 +100,22 @@ Quality       ──→  Vitest, typechecked CI, security tests for tenant isola
 
 ## What I build
 
-**Multi-tenant SaaS platform** — Next.js, Supabase, Drizzle, Vitest
-Tenant-level data isolation enforced with row-level security across every boundary, and a 14-view PostgreSQL reporting layer using `security_invoker` for tenant-safe access. Isolation is not assumed — it is covered by a dedicated test suite that actively attempts cross-tenant reads and asserts they fail.
+**Multi-tenant SaaS platform** · Next.js, Supabase, Drizzle, Vitest
+Tenant-level data isolation enforced with row-level security across every boundary, and a 14-view PostgreSQL reporting layer using `security_invoker` for tenant-safe access. Isolation is not assumed. It is covered by a dedicated test suite that actively attempts cross-tenant reads and asserts they fail.
 
-**RAG ingestion pipeline** — TypeScript, embeddings, vector retrieval
+**RAG ingestion pipeline** · TypeScript, embeddings, vector retrieval
 Document extraction, chunking, embedding, and retrieval as discrete tested stages, so a change to the chunking strategy cannot silently break retrieval quality.
 
-**Real-time messaging server** — Node.js, TypeScript, Fastify, WebSockets
+**Real-time messaging server** · Node.js, TypeScript, Fastify, WebSockets
 Backend owning a long-lived, stateful session and exposing both REST and WebSocket interfaces. Pushes live events to connected clients over `ws`, handling session lifecycle, authentication, and reconnection.
 
-**LLM streaming applications** — Next.js, Anthropic SDK, Vercel AI SDK
+**LLM streaming applications** · Next.js, Anthropic SDK, Vercel AI SDK
 Streams model output token-by-token from a Node route handler to the browser, with client-side cancellation via `AbortController`. Provider-agnostic across Anthropic, OpenAI, and Google.
 
-**Report generation system** — TypeScript, PostgreSQL
+**Report generation system** · TypeScript, PostgreSQL
 CLI pipeline and web portal over a 23-table schema, with a multi-provider AI abstraction that routes generation across model vendors without call-site changes.
 
-**Data pipelines & dashboards** — Python, Pandas
+**Data pipelines & dashboards** · Python, Pandas
 Pipelines analysing sales and performance data, generating written executive commentary from the computed results.
 
 <br/>
